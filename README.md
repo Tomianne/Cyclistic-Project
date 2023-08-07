@@ -7,3 +7,7 @@ To better understand the customer so that the appropriate marketing programs can
 #### Why would casual riders buy Cyclistic annual memberships?
 ## The Dataset
 The data set contained 12 months from July 2022 to June 2023. The dataset was separated into monthly files containing 13 columns covering ride_ID, bike_type, start date & time, end date & time, start station name, start station ID, end station name, end station ID, start latitude, start longitude, end latitude, end longitude and customer type. 
+## Data Preparation
+Obtained the 12 CSV files containing data for each month from July 2022 to June 2023. I ensured the CSV files were formatted correctly with appropriate column headers and clean data. I also imported all 12 files into Microsoft SQL for cleaning, manipulation and analysis. 
+## Data Cleaning and Transformation
+I created a table and merged all 12 files into one.  
