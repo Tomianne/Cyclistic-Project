@@ -25,3 +25,4 @@ The database was queried to check for the following
 8. Usage by time of day
 ## Visualization
 The findings from the analysis were visualised in Tableau. 
+https://public.tableau.com/app/profile/hannah.ajiboye/viz/CyclisticProjectJul2022-June2023/Dashboard1 
